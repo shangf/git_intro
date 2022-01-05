@@ -1,1 +1,2 @@
-"Frank Shang" 
+Frank Shang 
+shangf@oregonstate.edu
